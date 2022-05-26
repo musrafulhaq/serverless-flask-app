@@ -1,3 +1,10 @@
+# project ignore list
+__pycache__/
+aws/
+.serverless/
+venv/
+
+
 # Logs
 logs
 *.log
